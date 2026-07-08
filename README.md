@@ -6,7 +6,7 @@ A stateful judicial reasoning and audit engine designed for litigation workflows
 ## Repository Contents
 
 - 📄 Product Memo – Product vision, architecture, reasoning workflow, and design philosophy.
-- 🎥 Technical Demo – Demonstration of the working prototype on real judgment packs.
+- 🎥 Technical Demo – Demonstration of the working prototype on real judgment packs. [Link Text](https://go.screenpal.com/watch/cO1jo4nurcq)
 
 ## Overview
 
