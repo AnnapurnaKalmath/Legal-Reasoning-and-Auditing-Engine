@@ -38,7 +38,7 @@ Every output is anchored to a specific judicial passage. The engine doesn't deci
 
 ## How it works
 
-<img src="assets/screenshot-adaptive-reasoning.png" width="720" alt="Same prompt, three judgments, three different legal lenses">
+<img src="screenshot-adaptive-reasoning.png" width="720" alt="Same prompt, three judgments, three different legal lenses">
 
 *Same client query, three judgments — the engine reframes the core legal issue differently for each, matching what that court actually cared about (eviction precedent → lease expiry; due-process precedent → forcible dispossession; equity precedent → unauthorized alterations).*
 
