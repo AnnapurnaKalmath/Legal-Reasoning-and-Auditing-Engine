@@ -9,7 +9,7 @@
 ### ▶ Watch it work (2 min)
 
 <a href="https://go.screenpal.com/watch/cO1jo4nurcq">
-  <img src="assets/screenshot-defense-strategy.png" width="720" alt="Click to watch the technical demo">
+  <img src="screenshot-defense-strategy.png" width="720" alt="Click to watch the technical demo">
 </a>
 
 *Click the screenshot to watch the full demo on real judgment packs.*
@@ -48,7 +48,7 @@ Every output is anchored to a specific judicial passage. The engine doesn't deci
 4. **Persistent workspace** — a matter's facts and risk triggers stay live; new arguments are tested against existing context, not from a blank slate
 5. **Defense generation** — on request, switches from neutral audit to strategist mode, and builds a rebuttal from whichever precedents actually support the client
 
-<img src="assets/screenshot-deep-audit.png" width="720" alt="Full audit output across three judgments with a consensus decision matrix">
+<img src="screenshot-deep-audit.png" width="720" alt="Full audit output across three judgments with a consensus decision matrix">
 
 *A single client admission audited against three precedents at once — two supporting, one flagged high-risk under the "clean hands" doctrine — consolidated into one pre-filing decision matrix.*
 
