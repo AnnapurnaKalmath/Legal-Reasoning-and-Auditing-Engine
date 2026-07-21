@@ -62,7 +62,7 @@ Transparency over automation. The engine surfaces judicial reasoning instead of 
 
 ## Repository contents
 
-- 📄 **Product Memo** — full product vision, architecture, and reasoning workflow
+- 📄 **Product Memo** — full product vision, architecture, and reasoning workflow ([Click here for product memo](https://docs.google.com/document/d/1Edm_xEuN9bzlcdWGExrVGIUxQalyfLWSFHjmKQIvMgo/edit?usp=sharing))
 - 🎥 **Technical demo** — the prototype running against real judgment packs ([watch here](https://go.screenpal.com/watch/cO1jo4nurcq))
 
 This repository is documentation and demonstration material. **Source code is not included.**
